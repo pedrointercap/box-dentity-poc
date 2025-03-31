@@ -4,7 +4,7 @@ POC meant to understand how .Box could be integrated to Dentity to improve the u
 
 ## Main flow:
 
-![alt text](https://github.com/[pedrointercap]/[box-dentity-poc]/blob/[main]/assets/box-dentiy-main-flow.png?raw=true)
+<img src="assets/box-dentiy-main-flow.png" alt="Main Flow">
 
 ## Running this project localy
 
